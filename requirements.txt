@@ -2,9 +2,8 @@ jupyter
 ipykernel
 pandas
 numpy
+seaborn
+bokeh
 holoviews
 matplotlib
 statsmodels
-pyarrow
-wfdb
-websockets
