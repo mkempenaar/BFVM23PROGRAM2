@@ -1,5 +1,6 @@
 .DS_Store
 *.swp
+data/
 demos/*.png
 demos/*.html
 
